@@ -1,1 +1,2 @@
 # python-api-challenge
+# For this module, I did the assignment by referencing lectures and using some of the code provided in the starter file as instructed. There was little to no reference needed from external sources aside from color options for the scatter plots.
